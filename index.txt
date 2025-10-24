@@ -1,10 +1,9 @@
-
 <!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Sainik Bhaumick ó Structural Design Engineer</title>
+  <title>Sainik Bhaumick ‚Äî Structural Design Engineer</title>
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
@@ -12,20 +11,20 @@
   <!-- Main stylesheet -->
   <link rel="stylesheet" href="style.css">
 
-  <meta name="description" content="Portfolio of Sainik Bhaumick ó Structural Design Engineer. AutoCAD, Revit, STAAD.Pro.">
+  <meta name="description" content="Portfolio of Sainik Bhaumick ‚Äî Structural Design Engineer. AutoCAD, Revit, STAAD.Pro.">
 </head>
 <body>
   <header class="site-header" role="banner">
     <div class="wrap header-row">
       <div class="brand">
         <h1>Sainik Bhaumick</h1>
-        <p class="tag">Structural Design Engineer ó Design | Structure | Precision</p>
+        <p class="tag">Structural Design Engineer ‚Äî Design | Structure | Precision</p>
       </div>
 
       <nav class="site-nav" aria-label="Main navigation">
-        <button id="themeToggle" class="icon-btn" aria-label="Toggle theme">??</button>
+        <button id="themeToggle" class="icon-btn" aria-label="Toggle theme">üåô</button>
         <a class="btn" href="SAINIK_BHAUMICK_CV.pdf" download>Download CV</a>
-        <button class="hamburger" id="menuBtn" aria-label="Open menu">?</button>
+        <button class="hamburger" id="menuBtn" aria-label="Open menu">‚ò∞</button>
         <ul id="navList" class="nav-list">
           <li><a href="#about">About</a></li>
           <li><a href="#skills">Skills</a></li>
@@ -43,7 +42,7 @@
     <section id="hero" class="hero section">
       <div class="wrap hero-grid">
         <div class="hero-left">
-          <h2 class="intro-title">Hi ó I'm <span class="accent">Sainik</span>.</h2>
+          <h2 class="intro-title">Hi ‚Äî I'm <span class="accent">Sainik</span>.</h2>
           <p class="lead">Diploma Civil Engineer transitioning into Structural & Design Engineering. I produce construction-ready drawings (AutoCAD) and BIM models (Revit) with a practical site-first approach.</p>
 
           <div class="hero-actions">
@@ -53,13 +52,13 @@
 
           <div class="meta">
             <span><strong>Location:</strong> Barisha, Kolkata / Jharkhand</span>
-            <span>ï</span>
+            <span>‚Ä¢</span>
             <span><strong>Availability:</strong> Open to junior design roles & internships</span>
           </div>
 
           <div class="contact-inline">
             <a href="mailto:sainikbhaumick78@gmail.com">sainikbhaumick78@gmail.com</a>
-            <span>ï</span>
+            <span>‚Ä¢</span>
             <a href="tel:8697712736">+91 86977 12736</a>
           </div>
         </div>
@@ -70,7 +69,7 @@
             <div class="profile-info">
               <div class="name">Sainik Bhaumick</div>
               <div class="role">Structural Design Engineer (aspiring)</div>
-              <div class="skills-mini">AutoCAD ï Revit ï STAAD.Pro ï BOQ</div>
+              <div class="skills-mini">AutoCAD ‚Ä¢ Revit ‚Ä¢ STAAD.Pro ‚Ä¢ BOQ</div>
               <div class="profile-links">
                 <a href="SAINIK_BHAUMICK_CV.pdf" download class="small-btn">Download CV</a>
                 <a href="https://www.linkedin.com/" class="small-ghost" target="_blank" rel="noopener">LinkedIn</a>
@@ -86,8 +85,8 @@
       <h3 class="section-title">About Me</h3>
       <div class="about-grid">
         <div>
-          <p>I am a Diploma Civil Engineer from Acharyya Prafulla Chandra Ray Polytechnic with hands-on site experience at SK Samanta Ltd. Iím moving into design: preparing drawings, reinforcement detailing, BIM modelling and structural checks. I bring a site-first mindset to design so drawings are constructible and efficient.</p>
-          <p>I love learning new tools and improving workflows ó currently deepening Revit and STAAD.Pro skills while building a strong AutoCAD portfolio.</p>
+          <p>I am a Diploma Civil Engineer from Acharyya Prafulla Chandra Ray Polytechnic with hands-on site experience at SK Samanta Ltd. I‚Äôm moving into design: preparing drawings, reinforcement detailing, BIM modelling and structural checks. I bring a site-first mindset to design so drawings are constructible and efficient.</p>
+          <p>I love learning new tools and improving workflows ‚Äî currently deepening Revit and STAAD.Pro skills while building a strong AutoCAD portfolio.</p>
         </div>
         <aside class="about-aside">
           <table class="info-table">
@@ -115,9 +114,9 @@
         <div class="skill-box">
           <h4>Software</h4>
           <ul>
-            <li>AutoCAD ó 2D drafting, detail sheets</li>
-            <li>Revit ó BIM modelling & sheets</li>
-            <li>STAAD.Pro ó frame modelling & checks</li>
+            <li>AutoCAD ‚Äî 2D drafting, detail sheets</li>
+            <li>Revit ‚Äî BIM modelling & sheets</li>
+            <li>STAAD.Pro ‚Äî frame modelling & checks</li>
           </ul>
         </div>
         <div class="skill-box">
@@ -135,8 +134,8 @@
     <section id="experience" class="section wrap reveal">
       <h3 class="section-title">Experience</h3>
       <div class="exp-block">
-        <h4>SK Samanta & Co. ó Diploma Engineer Trainee (Civil)</h4>
-        <p class="muted">July 2025 ó Present</p>
+        <h4>SK Samanta & Co. ‚Äî Diploma Engineer Trainee (Civil)</h4>
+        <p class="muted">July 2025 ‚Äî Present</p>
         <ul>
           <li>Prepared structural layouts and reinforcement drawings for foundations and equipment bases.</li>
           <li>Coordinated design corrections and ensured constructability at site.</li>
@@ -154,9 +153,9 @@
         <article class="project-card" data-project="p1">
           <div class="project-thumb" style="background-image:url('assets/p1-1.jpg')" aria-hidden="true"></div>
           <div class="project-body">
-            <h4>Residential G+1 ó Working Drawings</h4>
+            <h4>Residential G+1 ‚Äî Working Drawings</h4>
             <p>Full working drawings: plans, elevations, sections and reinforcement detailing focused on constructability.</p>
-            <div class="project-meta">AutoCAD ï DWG & PDF</div>
+            <div class="project-meta">AutoCAD ‚Ä¢ DWG & PDF</div>
             <button class="btn modal-open" data-project="p1">Open Project</button>
           </div>
         </article>
@@ -165,9 +164,9 @@
         <article class="project-card" data-project="p2">
           <div class="project-thumb" style="background-image:url('assets/p2-1.jpg')" aria-hidden="true"></div>
           <div class="project-body">
-            <h4>BIM & Revit ó Low-Rise Model</h4>
+            <h4>BIM & Revit ‚Äî Low-Rise Model</h4>
             <p>3D BIM model + coordinated structural sheets to assist clash detection and site implementation.</p>
-            <div class="project-meta">Revit ï RVT & Sheets</div>
+            <div class="project-meta">Revit ‚Ä¢ RVT & Sheets</div>
             <button class="btn modal-open" data-project="p2">Open Project</button>
           </div>
         </article>
@@ -176,9 +175,9 @@
         <article class="project-card" data-project="p3">
           <div class="project-thumb" style="background-image:url('assets/p3-1.jpg')" aria-hidden="true"></div>
           <div class="project-body">
-            <h4>Structural Analysis ó STAAD.Pro</h4>
-            <p>Frame modelling, load cases, MñS diagrams, and basic member checks. BBS and verification with IS codes.</p>
-            <div class="project-meta">STAAD.Pro ï Model & Report</div>
+            <h4>Structural Analysis ‚Äî STAAD.Pro</h4>
+            <p>Frame modelling, load cases, M‚ÄìS diagrams, and basic member checks. BBS and verification with IS codes.</p>
+            <div class="project-meta">STAAD.Pro ‚Ä¢ Model & Report</div>
             <button class="btn modal-open" data-project="p3">Open Project</button>
           </div>
         </article>
@@ -191,10 +190,10 @@
     <section id="certs" class="section wrap reveal">
       <h3 class="section-title">Certifications & Learning</h3>
       <div class="cert-list">
-        <span class="chip">AutoCAD ó Genz Educatewing</span>
+        <span class="chip">AutoCAD ‚Äî Genz Educatewing</span>
         <span class="chip">AutoCAD Internship</span>
-        <span class="chip">BIM / Revit ó Ongoing</span>
-        <span class="chip">STAAD.Pro ó Beginner Course</span>
+        <span class="chip">BIM / Revit ‚Äî Ongoing</span>
+        <span class="chip">STAAD.Pro ‚Äî Beginner Course</span>
       </div>
     </section>
 
@@ -217,7 +216,7 @@
       </div>
 
       <div class="footer-note">
-        <small>© 2025 Sainik Bhaumick ï Built for structural design roles. Portfolio files available on request.</small>
+        <small>¬© 2025 Sainik Bhaumick ‚Ä¢ Built for structural design roles. Portfolio files available on request.</small>
       </div>
     </section>
   </main>
@@ -238,7 +237,7 @@
     // Projects data (images & file links). Edit these links to point to real files you upload.
     const PROJECTS = {
       p1: {
-        title: "Residential G+1 ó Working Drawings",
+        title: "Residential G+1 ‚Äî Working Drawings",
         images: ["assets/p1-1.jpg","assets/p1-2.jpg"],
         desc: "<p>Complete set of AutoCAD working drawings (plans, elevations, sections) with reinforcement detailing and BBS.</p>",
         files: [
@@ -247,7 +246,7 @@
         ]
       },
       p2: {
-        title: "BIM & Revit ó Low-Rise Model",
+        title: "BIM & Revit ‚Äî Low-Rise Model",
         images: ["assets/p2-1.jpg","assets/p2-2.jpg"],
         desc: "<p>Revit RVT model and coordinated sheets for a low-rise residential building.</p>",
         files: [
@@ -256,7 +255,7 @@
         ]
       },
       p3: {
-        title: "STAAD.Pro ó Frame Analysis",
+        title: "STAAD.Pro ‚Äî Frame Analysis",
         images: ["assets/p3-1.jpg","assets/p3-2.jpg"],
         desc: "<p>Frame analysis, M-S diagrams and BBS generation done using STAAD.Pro and Excel.</p>",
         files: [
@@ -338,7 +337,7 @@
     function applyTheme(t) {
       if (t === 'dark') document.documentElement.setAttribute('data-theme', 'dark');
       else document.documentElement.removeAttribute('data-theme');
-      themeToggle.textContent = t === 'dark' ? '??' : '??';
+      themeToggle.textContent = t === 'dark' ? '‚òÄÔ∏è' : 'üåô';
     }
     if (stored) applyTheme(stored);
     else applyTheme(prefersDark ? 'dark' : 'light');
